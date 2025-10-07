@@ -56,3 +56,4 @@ def n_queens(n):
 
 n = 4
 n_queens(n)
+
